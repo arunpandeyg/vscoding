@@ -1,0 +1,81 @@
+{
+  "keertans": [
+    { "id":1,
+      "name": "Keertan 1",
+      "img": "/k1.png",
+      "location": "Gurgaon",
+      "capacity": 50,
+      "currentOccupancy": 40
+    },
+    { "id":2,
+      "name": "Keertan 2",
+      "img": "/k2.png",
+      "location": "Delhi",
+      "capacity": 75,
+      "currentOccupancy": 60
+    },
+    { "id":3,
+      "name": "Keertan 3",
+      "img": "/k3.png",
+      "location": "Mumbai",
+      "capacity": 100,
+      "currentOccupancy": 80
+    },
+    { "id":4,
+      "name": "Keertan 4",
+      "img": "/k4.png",
+      "location": "Chennai",
+      "capacity": 125,
+      "currentOccupancy": 100
+    },
+    { "id":5,
+      "name": "Keertan 5",
+      "img": "/k5.png",
+      "location": "Bangalore",
+      "capacity": 150,
+      "currentOccupancy": 120
+    },
+    { "id":6,
+      "name": "Keertan 6",
+      "img": "/k6.png",
+      "location": "Kolkata",
+      "capacity": 200,
+      "currentOccupancy": 160
+    },
+    { "id":7,
+      "name": "Keertan 7",
+      "img": "/k7.png",
+      "location": "Hyderabad",
+      "capacity": 250,
+      "currentOccupancy": 200
+    },
+    { "id":8,
+      "name": "Keertan 8",
+      "img": "/k8.png",
+      "location": "Pune",
+      "capacity": 300,
+      "currentOccupancy": 240
+    },
+    { "id":9,
+      "name": "Keertan 9",
+      "img": "/k9.png",
+      "location": "Jaipur",
+      "capacity": 350,
+      "currentOccupancy": 280
+    },
+    { "id":10,
+      "name": "Keertan 10",
+      "img": "/k10.png",
+      "location": "Lucknow",
+      "capacity": 400,
+      "currentOccupancy": 320
+    },
+    { "id":11,
+      "name": "Keertan 11",
+      "img": "/k11.png",
+      "location": "Ahmedabad",
+      "capacity": 450,
+      "currentOccupancy": 360
+    }
+  ]
+}
