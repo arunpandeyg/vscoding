@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../css/slick.css">
+    <link rel="stylesheet" type="text/css" href="../css/slick-theme.css">
+    <link rel="stylesheet" href="../css/index.css">
+    <title>Slick Slider</title>
+</head>
+<body>
+
+
+<div class="homeslider">
+    <div class="slide">
+        <img src="../js/images/fav.jpg" alt="">
+    </div>
+    <div class="slide">
+        <img src="../js/images/man.jpg" alt="">
+    </div>
+    <div class="slide">
+        <img src="../js/images/think.jpg" alt="">
+    </div>
+    <div class="slide">
+        <img src="../js/images/uniq.jpg" alt="">
+    </div>
+    <div class="slide">
+        <img src="../js/images/uniq2.jpg" alt="">
+    </div>
+</div>
+<script src="../js/jquery.js"></script>
+<script src="../js/slick.min.js"></script>
+<script>
+    $(document).ready(function() {
+        /*$('.homeslider').slick({
+           dots : true,
+           arrows : false
+        });*/
+        // $('.homeslider').slick({
+        //     infinite: true,
+        //     slidesToShow: 3,
+        //     slidesToScroll: 3
+        // });/
+        $('.homeslider').slick({
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            autoplay: true,
+            autoplaySpeed: 2000,
+        });
+
+
+    });
+</script>
+</body>
+</html>

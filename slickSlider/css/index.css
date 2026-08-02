@@ -1,0 +1,11 @@
+body{
+   background: gray;
+   margin: 50px;
+}
+.homeslider{
+    width: 980px;
+}
+.slick-dots li button:before{
+    font-size: 10px;
+
+}
